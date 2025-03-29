@@ -36,6 +36,13 @@
     "isBanned": false,
     "expiryDate": "2026-12-31T23:59:59"
   },
+{
+    "username": "RIFAT",
+    "password": "1",
+    "hwid": "7075332DAAEEA0BF6985569D0D5D902D54590E0E80504D2844D1CE5CD416A621",
+    "isBanned": false,
+    "expiryDate": "2026-12-31T23:59:59"
+  },
 
 
 ]
