@@ -1,0 +1,34 @@
+[
+
+
+  {
+    "username": "A",
+    "password": "1",
+    "hwid": "2F8653841283C7DB14924A82E6EE21F8D0D084AC5BDA248B502E89FC6C10ED6C",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
+  {
+    "username": "nm",
+    "password": "1",
+    "hwid": "D86CB6B06BADE1C6BD9379632B4BC5969D90B4313D6F67D699884B13259BC91B",
+    "isBanned": false,
+    "expiryDate": "2026-12-31T23:59:59"
+  },
+  {
+    "username": "testuser3",
+    "password": "password3",
+    "hwid": "hwid3",
+    "isBanned": false,
+    "expiryDate": "2024-01-01T23:59:59"
+  },
+{
+    "username": "ak",
+    "password": "1",
+    "hwid": "2804329E4BC5E74A86FC0384E3E754FE5FDE857CCAD1EC8A9BB69346F09345F9",
+    "isBanned": false,
+    "expiryDate": "2026-01-01T23:59:59"
+  },
+
+
+]
