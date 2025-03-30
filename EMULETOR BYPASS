@@ -1,0 +1,29 @@
+[
+
+
+  {
+    "username": "A",
+    "password": "1",
+    "hwid": "2F8653841283C7DB14924A82E6EE21F8D0D084AC5BDA248B502E89FC6C10ED6C",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
+  {
+    "username": "11",
+    "password": "11",
+    "hwid": "57DEB4F52EB1DD41C0180331CD53106B7B7DD0A9E2F37746569E8BFD34D5E366",
+    "isBanned": false,
+    "expiryDate": "2026-12-31T23:59:59"
+  },
+  {
+    "username": "rolex",
+    "password": "1",
+    "hwid": "BF312398543924D0CDFA8BC2DF4AC3D308AC76294F9E03628BE09E09CFE7059B",
+    "isBanned": false,
+    "expiryDate": "2026-12-31T23:59:59"
+  },
+
+
+
+
+]
