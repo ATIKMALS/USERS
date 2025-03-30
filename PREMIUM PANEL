@@ -50,6 +50,14 @@
     "isBanned": false,
     "expiryDate": "2026-12-31T23:59:59"
   },
+{
+    "username": "nur",
+    "password": "x",
+    "hwid": "643DFC5867E2E8D259C76182213A2D6020405D8498A9E633968585BE4C3CA54D",
+    "isBanned": false,
+    "expiryDate": "2026-12-31T23:59:59"
+  },
+
 
 
 ]
